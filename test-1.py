@@ -51,6 +51,7 @@ class Manager(Employee):
 
 dev_1 = Developer('Coery', 'Schafer', 50000, 'Python')
 dev_2 = Developer('Test', 'User', 60000, 'Java')
+man_1 = Manager('negin', 'Khansarinia', 5098089)
 
 # print(help(Developer))
 
