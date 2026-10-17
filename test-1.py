@@ -76,3 +76,4 @@ print(isinstance(mgr_1, Manager))
 print(isinstance(mgr_1, Developer))
 
 print(issubclass(Developer, Employee))
+print(issubclass(Manager, Developer))
