@@ -1,7 +1,7 @@
 class Employee:
 
     num_of_emps = 0
-    raise_amount = 1.04
+    raise_amount = 1.05
 
     def __init__(self, first, last, pay):
         self.first = first
